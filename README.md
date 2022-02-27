@@ -1,1 +1,3 @@
 # JavaScript Bootcamp
+
+This course is about learning the fundamentals of programming, particularly in Javascript. Programming subjects such as variables, scope, functions, basic animation, debugging, testing, conditionals, and other JS commands are taught to provide a foundation for continuing to learn to code. To facilitate this learning, multiple projects and assignments are done through Visual Studio Code such as two Pacman projects, multiple small programming assignments, a debugging assignment, and more. All the work done for the course is to be saved not only within the students' computers but onto GitHub as well.
